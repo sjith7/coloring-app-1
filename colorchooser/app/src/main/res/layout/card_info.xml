@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<android.support.v7.widget.AppCompatTextView
+
+    android:id="@+id/list"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:textSize="80sp"
+    android:textColor="#000"
+    android:gravity="center"
+    android:textAlignment="center"
+    android:background="@drawable/buttonclick"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+</android.support.v7.widget.AppCompatTextView>
+
